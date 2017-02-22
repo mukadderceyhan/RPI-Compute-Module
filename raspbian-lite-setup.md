@@ -1,12 +1,12 @@
 # Setup Raspbian lite
 Assuming you have followed this:
-https://github.com/samcsli/documentation/blob/master/hardware/computemodule/cm-emmc-flashing-install-backup.md
+[Flashing (install/restore) & backup the Compute Module eMMC storage](cm-emmc-flashing-install-backup.md)
 
 And have ejected the Compute Module eMMC, set J4 jummper to 'Dis' position.
 
-It's time to boot the Raspberry Pi. There are two ways to do this.
+It's time to boot up and set the Raspberry Pi. There are two ways to do this.
 
-## 1 - A basic set up would need:
+## 1 - A basic set up
 - HDMI cable + monitor
 - Keyboard into the IO board
 - power supply
@@ -14,9 +14,8 @@ It's time to boot the Raspberry Pi. There are two ways to do this.
 
 **But you should use a USB Hub, so you can add Ethernet Adapter, WiFi Adapter and Mouse...and download updates and packages for the system.**
 
-## 2 - Headless Setup
-You can do a Headless setup, where HDMI cable + monitor, Keyboard are no longer needed.
-https://github.com/samcsli/RPI-Compute-Module/blob/master/hardware/computemodule/headless-setup.md
+## 2 - Headless Setup (recommended)
+You can do a [Headless Setup](headless-setup.md), where HDMI cable + monitor, Keyboard are no longer needed.
 
 ## Initial setup
 The Raspberry Pi will boot immediately. This will take a little bit more than a minute. Once the Pi is booted it will ask you for the username and the password. By default the following log-in credentials can be used:
@@ -46,7 +45,7 @@ Select `Internationalisation Options` and press `Enter` to be taken to a sub-men
 <a name="change-locale"></a>
 #### Change locale
 
-Select a locale, for example `en_GB.UTF-8 UTF-8`.
+Select a locale, for example `en_US.UTF-8 UTF-8`.
 
 <a name="change-timezone"></a>
 #### Change timezone
