@@ -30,7 +30,7 @@ On Windows, all you have to do is download and install [Win32DiskImager](http://
 - Click `Write` and wait for the write to complete.
 - Exit the Win32DiskImager and eject the eMMC.
 
-## Backup operating system images using Windows
+## Backup os images using Windows
 Similar to Install/restore operating system images using Windows, all you have to do is download and install [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/).
 - Load Win32DiskImager and click the Folder icon and browse to where you want to save your SD card image backup.
 ![Backup](http://www.winchmedia.com/tech/rpi/sd_backup_tips/pi_backup_step3.jpg)
