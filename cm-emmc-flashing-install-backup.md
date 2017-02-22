@@ -38,11 +38,11 @@ Similar to Install/restore operating system images using Windows, all you have t
 - Exit the Win32DiskImager and eject the Compute Module eMMC.
 
 ## Bonus: enabling ssh
-As of the November 2016 release, Raspbian has the SSH server disabled by default. You will have to enable it manually. This can be done during setup using `raspi-config`.
+As of the November 2016 release, Raspbian has the SSH server disabled by default. You will have to enable it manually. This can be done [during setup](raspbian-lite-setup.md) using `raspi-config`.
 
 But, there is a shortcut:![huaji](huaji.png)
 
-Before ejecting the Compute Module eMMC, place a file named 'ssh', without any extension, onto the eMMC.
+***Before ejecting the Compute Module eMMC, create a file named 'ssh', without any extension, onto the eMMC.***
 
 ---
 
