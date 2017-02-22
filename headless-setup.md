@@ -19,7 +19,7 @@ Once your RPi is connected to the network, it will have an IP address assigned t
 
 Since you don’t know the IP address of your RPi (dynamic), you scan all the IP addresses in the range that your router/gateway corresponds to.
 
-But you can always boot up the pi, login to you router and find the ip address (soo much easier):
+But you can always boot up the pi, login to you router and find the ip address (SO much easier):
 
 ![](https://s3.amazonaws.com/cdn.self.li/post-raspberry-pi-headless/router.png)
 ###For Method 2:
