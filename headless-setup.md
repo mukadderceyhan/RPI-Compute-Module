@@ -6,12 +6,12 @@ The idea behind this approach is that your RPi and your computer need to be conn
 ###Method 1 (recommended)
 Connect your RPi to the same network your computer is connected to. This means hooking up your RPi to your modem/router. Be aware that this will connect your RPi to the internet. This can achieved using either Ethernet or Wi-Fi.
 
-![Method 1](https://i2.wp.com/maxembedded.com/wp-content/uploads/2015/04/raspberry-pi-headless-method-1.png?w=500)
+![Method 1](https://i2.wp.com/maxembedded.com/wp-content/uploads/2015/04/raspberry-pi-headless-method-1.png)
 
 ###Method 2
 If you don’t have access to your router or if you can’t connect to your router due to encryption/security issues, then you might need to create your own LAN network between your computer and your RPi. Simply hook your RPi with your computer with an Ethernet cable. Unless you explicitly share your computer’s network with your RPi, there will be no internet connection available to your RPi.
 
-![Method 2](https://i1.wp.com/maxembedded.com/wp-content/uploads/2015/04/raspberry-pi-headless-method-2.png?w=500)
+![Method 2](https://i1.wp.com/maxembedded.com/wp-content/uploads/2015/04/raspberry-pi-headless-method-2.png)
 ## Step 2 – Determining IP Address
 Once your RPi is connected to the network, it will have an IP address assigned to it. You can make the IP static (IP remains same every time you connect) or dynamic (IP changes every time you connect). If you are using static IP address for your RPi, then skip to the next step (step 3).
 ###For Method 1:
