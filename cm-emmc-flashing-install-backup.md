@@ -1,4 +1,4 @@
-# Flashing the Compute Module eMMC
+# Flashing (install/restore) & backup the Compute Module eMMC storage
 
 The Compute Module has an on-board eMMC device connected to the primary SD card interface. This guide has **simplified** and covers the following un-reader-friendly documents:
 https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md
