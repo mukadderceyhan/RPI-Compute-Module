@@ -6,7 +6,7 @@ And have ejected the Compute Module eMMC, set J4 jummper to 'Dis' position.
 
 It's time to boot up and set the Raspberry Pi. There are two ways to do this.
 
-## 1 - A basic set up
+## 1 - A basic setup
 - HDMI cable + monitor
 - Keyboard into the IO board
 - power supply
