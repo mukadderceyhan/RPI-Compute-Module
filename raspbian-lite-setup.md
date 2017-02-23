@@ -2,7 +2,7 @@
 Assuming you have followed this:
 [Flashing (install/restore) & backup the Compute Module eMMC storage](cm-emmc-flashing-install-backup.md)
 
-And have ejected the Compute Module eMMC, set J4 jummper to 'Dis' position.
+**And have ejected the Compute Module eMMC, set J4 jummper to 'Dis' position.**
 
 It's time to boot up and set the Raspberry Pi. There are two ways to do this.
 
@@ -10,7 +10,7 @@ It's time to boot up and set the Raspberry Pi. There are two ways to do this.
 - HDMI cable + monitor
 - Keyboard into the IO board
 - power supply
-![](https://www.rs-online.com/designspark/rel-assets/dsauto/temp/uploaded/Fig_04.png)
+![](CM-basic-setup.png)
 
 **But you should use a USB Hub, so you can add Ethernet Adapter, WiFi Adapter and Mouse...and download updates and packages for the system.**
 
