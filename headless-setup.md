@@ -1,5 +1,6 @@
 # Headless Setup
 
+**Prerequisite: ssh must be enabled!**
 
 ## Step 1: Connecting RPi to the network
 The idea behind this approach is that your RPi and your computer need to be connected to the same network. There are two ways to do this.
