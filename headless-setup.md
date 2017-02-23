@@ -47,5 +47,5 @@ After you have entered the IP address of your Raspberry Pi, click “Open” to 
 If the SSH connection is successful you will now be greeted with the login prompt of your Raspberry Pi:
 
 
-# Bounus: Set a static IP
+# Bonus: Set a static IP
 ***Many places online will tell you to put a desired ip address in the cmdline.txt. This will only work well if you are using Method 1.***
