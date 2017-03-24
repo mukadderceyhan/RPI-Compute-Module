@@ -85,7 +85,7 @@ Enable/Disable the use of Device Tree. Read more about Device Trees config on th
 Arrow down to the `Finish` button, and hit Enter on your keyboard. It should reboot automatically, if it doesn't, then use the following command in the terminal to reboot.
 
 ```
-sudo reboot
+sudo shutdown -r
 
 ```
 ## More setup
