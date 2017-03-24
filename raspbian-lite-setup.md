@@ -76,7 +76,7 @@ SSH allows you to remotely access the command line of the Raspberry Pi from anot
 <a name="device-tree"></a>
 #### Device Tree
 
-Enable/Disable the use of Device Tree. Read more about Device Trees config on the [Device Trees documentation page](device-tree.md).
+Enable/Disable the use of Device Tree. Read more about Device Trees config on the [Device Trees documentation page](https://www.raspberrypi.org/documentation/configuration/device-tree.md).
 
 <a name="spi"></a>
 
